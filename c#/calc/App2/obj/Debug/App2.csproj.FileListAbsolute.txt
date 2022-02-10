@@ -1,0 +1,15 @@
+D:\задачи\c#\calc\App2\bin\Debug\App2.dll
+D:\задачи\c#\calc\App2\bin\Debug\App2.pdb
+D:\задачи\c#\calc\App2\bin\Debug\App2.App2.apk
+D:\задачи\c#\calc\App2\bin\Debug\App2.App2-Signed.apk
+D:\задачи\c#\calc\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+D:\задачи\c#\calc\App2\obj\Debug\App2.dll
+D:\задачи\c#\calc\App2\obj\Debug\App2.pdb
+D:\задачи\c#\calc\App2\obj\Debug\android\bin\App2.App2.apk
+D:\задачи\c#\calc\App2\obj\Debug\res\layout\main.xml
+D:\задачи\c#\calc\App2\obj\Debug\res\values\strings.xml
+D:\задачи\c#\calc\App2\obj\Debug\res\drawable\icon.png
+D:\задачи\c#\calc\App2\obj\Debug\R.cs.flag
+D:\задачи\c#\calc\App2\obj\Debug\uploadflags.txt
+D:\задачи\c#\calc\App2\obj\Debug\App2.dll.mdb
+D:\задачи\c#\calc\App2\bin\Debug\App2.dll.mdb

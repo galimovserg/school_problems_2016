@@ -1,0 +1,16 @@
+alien
+инопланетянин
+arm
+рука
+circle
+круг
+cloud
+облако
+custom
+обычай
+book
+книга
+table
+стол
+friend
+друг

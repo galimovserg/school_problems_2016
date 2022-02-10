@@ -1,0 +1,228 @@
+to understand
+понимать
+to happen
+происходить
+to travel
+путешествовать
+to answer
+отвечать
+to teach
+учить
+to write
+писать
+to check
+проверять
+to phone
+звонить
+to speak
+говорить
+to sleep
+спать
+to stand
+стоять
+to help
+помогать
+to fall
+падать
+to hold
+держать
+to read
+читать
+to know
+знать
+to wash
+мыть
+to walk
+ходить
+to dust
+убираться
+to open
+открывать
+to take
+брать
+to rest
+отдыхать
+to work
+работать
+to live
+жить
+to like
+любить
+to look
+смотреть
+to ask
+спрашивать
+to say
+сказать
+to fly
+летать
+to eat
+кушать
+to use
+использовать
+to run
+бежать
+to go
+идти
+to do
+делать
+accept
+принимать
+close/shut
+закрывать
+allow
+позволять
+organise
+организовывать
+pay
+платить
+believe
+верить
+play
+играть
+borrow
+занимать
+put
+класть
+break
+ломать
+rain
+идти
+bring
+приносить
+read
+читать
+buy
+покупать
+reply
+отвечать
+can/be able
+мочь
+run
+бежать
+cancel
+отменять
+say
+сказать
+change
+менять
+see
+видеть
+clean
+чистить
+sell
+продавать
+comb
+причесывать
+send
+посылать
+complain
+жаловаться
+sign
+подписывать
+cough
+кашлять
+sing
+петь
+count
+считать
+sit
+сидеть
+cut
+резать
+sleep
+спать
+dance
+танцевать
+smoke
+курить
+drink
+пить
+drive
+ездить
+spend
+тратить
+eat
+есть
+stand
+стоять
+explain
+объяснять
+start/begin
+начать
+fall
+падать
+study
+учиться
+fill
+наполнять
+succeed
+иметь успех
+swim
+плавать
+finish
+заканчивать
+take
+брать
+fit
+подходить
+talk
+разговаривать
+fix
+крепить
+forget
+забывать
+think
+думать
+give
+давать
+translate
+переводить
+have
+иметь
+try
+пытаться
+hear
+слышать
+turn off
+выключать
+hurt
+ранить
+turn on
+включать
+know
+знать
+type
+печатать
+learn
+выучить
+leave
+покидать
+use
+использовать
+listen
+слушать
+wait
+ждать
+live
+жить
+wake up
+просыпаться
+look
+смотреть
+want
+хотеть
+lose
+терять
+watch
+наблюдать
+make/do
+делать
+work
+работать
+need
+нуждаться
+worry
+беспокоиться
+open
+открывать

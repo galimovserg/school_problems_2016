@@ -1,0 +1,6 @@
+D:\задачи\c#\calc\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\задачи\c#\calc\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\задачи\c#\calc\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\задачи\c#\calc\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\задачи\c#\calc\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\задачи\c#\calc\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache

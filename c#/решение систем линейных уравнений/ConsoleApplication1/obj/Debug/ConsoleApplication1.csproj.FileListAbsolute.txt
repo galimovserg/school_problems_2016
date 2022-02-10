@@ -1,0 +1,1 @@
+D:\задачи\c#\решение систем линейных уравнений\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

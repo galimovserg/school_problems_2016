@@ -1,0 +1,6 @@
+C:\Users\Sergey\Desktop\задачи\c#\Задача №63. A[0], A[2], A[4]\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sergey\Desktop\задачи\c#\Задача №63. A[0], A[2], A[4]\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sergey\Desktop\задачи\c#\Задача №63. A[0], A[2], A[4]\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sergey\Desktop\задачи\c#\Задача №63. A[0], A[2], A[4]\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\задачи\c#\Задача №63. A[0], A[2], A[4]\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sergey\Desktop\задачи\c#\Задача №63. A[0], A[2], A[4]\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

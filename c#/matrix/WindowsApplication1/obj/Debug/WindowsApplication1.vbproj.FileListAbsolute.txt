@@ -1,0 +1,11 @@
+D:\задачи\c#\matrix\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\задачи\c#\matrix\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\задачи\c#\matrix\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\задачи\c#\matrix\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\задачи\c#\matrix\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\задачи\c#\matrix\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\задачи\c#\matrix\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\задачи\c#\matrix\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\задачи\c#\matrix\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\задачи\c#\matrix\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\задачи\c#\matrix\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

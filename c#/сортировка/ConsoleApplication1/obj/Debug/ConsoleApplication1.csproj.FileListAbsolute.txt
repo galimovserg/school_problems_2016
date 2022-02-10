@@ -1,0 +1,9 @@
+D:\задачи\c#\сортировка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\задачи\c#\сортировка\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\задачи\c#\сортировка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\задачи\c#\сортировка\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\задачи\c#\сортировка\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\задачи\c#\сортировка\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\documents\задачи\c#\сортировка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\documents\задачи\c#\сортировка\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\documents\задачи\c#\сортировка\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

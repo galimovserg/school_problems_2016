@@ -1,0 +1,12 @@
+C:\Users\Sergey\Desktop\задачи\c#\выпуклая оболочка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sergey\Desktop\задачи\c#\выпуклая оболочка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sergey\Desktop\задачи\c#\выпуклая оболочка\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sergey\Desktop\задачи\c#\выпуклая оболочка\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\задачи\c#\выпуклая оболочка\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sergey\Desktop\задачи\c#\выпуклая оболочка\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\задачи\c#\выпуклая оболочка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\задачи\c#\выпуклая оболочка\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\задачи\c#\выпуклая оболочка\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\задачи\c#\выпуклая оболочка\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\задачи\c#\выпуклая оболочка\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\задачи\c#\выпуклая оболочка\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

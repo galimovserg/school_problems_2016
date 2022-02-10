@@ -1,0 +1,6 @@
+C:\Users\Sergey\Desktop\задачи\c#\конструкции(циклы,операторы,исключения и тд)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sergey\Desktop\задачи\c#\конструкции(циклы,операторы,исключения и тд)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sergey\Desktop\задачи\c#\конструкции(циклы,операторы,исключения и тд)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sergey\Desktop\задачи\c#\конструкции(циклы,операторы,исключения и тд)\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\задачи\c#\конструкции(циклы,операторы,исключения и тд)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sergey\Desktop\задачи\c#\конструкции(циклы,операторы,исключения и тд)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
